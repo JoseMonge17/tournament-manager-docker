@@ -22,9 +22,9 @@ Allan Chan
 
 Carné: 
 
-Daniel Sequeira
+Daniel Stiben Sequeira Requenes
 
-Carné: 
+Carné: 2023282470
 
 Fecha de entrega: 2 de setiembre del 2025
 
