@@ -18,9 +18,9 @@ José Julián Monge Brenes
 
 Carné: 2024247024
 
-Allan Chan
+Li Hao Allan Chen Liang
 
-Carné: 
+Carné: 2019049482
 
 Daniel Stiben Sequeira Requenes
 
