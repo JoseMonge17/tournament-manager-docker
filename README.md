@@ -1,3 +1,34 @@
+**L1 - Docker**
+
+Instituto Tecnológico de Costa Rica
+
+Campus Tecnológico Central Cartago
+
+Escuela de Ingeniería en Computación
+
+II Semestre 2024
+
+Profesor Diego Mora
+
+Carlos José Ávalos Mendieta
+
+Carné: 2024207640
+
+José Julián Monge Brenes
+
+Carné: 2024247024
+
+Allan Chan
+
+Carné: 
+
+Daniel Sequeira
+
+Carné: 
+
+Fecha de entrega: 2 de setiembre del 2025
+
+
 # Taller paso a paso
 ## Descargamos los repositorios
 Descargamos los repositorios de github, en su última versión, vamos a tener un repositorio de la siguiente manera:
