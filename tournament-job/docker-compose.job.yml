@@ -1,0 +1,15 @@
+version: "3.9"
+services:
+  tournament-job:
+    build: .
+    container_name: tournament-job
+    environment:
+      - KAFKA_BROKER=kafka:9092
+      - KAFKA_TOPIC=tournaments
+    networks:
+      - internal_net
+
+networks:
+  internal_net:
+    external: true
+    name: internal_net
